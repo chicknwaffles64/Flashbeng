@@ -62,4 +62,5 @@ The D2L pages of the following post-secondary institutions are currently support
 | TMU <small>(Toronto Metropolitan University)</small> | `https://courses.torontomu.ca/d2l/` |
 | Waterloo                                             | `https://learn.uwaterloo.ca/d2l/`   |
 | McGill                                               | `https://mycourses2.mcgill.ca/d2l/` |
+| Lone Star College                                    | `https://d2l.lonestar.edu/d2l/`     |
 |                                                      |                                     |
