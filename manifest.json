@@ -27,7 +27,7 @@
         "run_at": "document_start"
       },
       {
-        "matches": ["https://mycourses2.mcgill.ca/d2l/*", "https://learn.georgebrown.ca/d2l/*", "https://avenue.mcmaster.ca/d2l/*", "https://learn.uwaterloo.ca/d2l/*", "https://courses.torontomu.ca/d2l/*"],
+        "matches": ["https://mycourses2.mcgill.ca/d2l/*", "https://learn.georgebrown.ca/d2l/*", "https://avenue.mcmaster.ca/d2l/*", "https://learn.uwaterloo.ca/d2l/*", "https://courses.torontomu.ca/d2l/*", "https://d2l.lonestar.edu/d2l/*"],
         "css": ["stylesheets/d2l.css"],
         "js":["content_scripts/d2l.js"],
         "run_at": "document_start"
